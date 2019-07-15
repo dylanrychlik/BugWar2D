@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: b1d4523ede3d6c04bb85d9aed22a8c3c
+timeCreated: 1562349340
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: soilderspritesheet_1
+    21300002: soilderspritesheet_0
+    21300004: soilderspritesheet_2
+    21300006: soilderspritesheet_3
+    21300008: soilderspritesheet_4
+    21300010: soilderspritesheet_5
+    21300012: soilderspritesheet_6
+    21300014: soilderspritesheet_7
+    21300016: soilderspritesheet_8
+    21300018: soilderspritesheet_9
+    21300020: soilderspritesheet_10
+    21300022: soilderspritesheet_11
+    21300024: soilderspritesheet_12
+    21300026: soilderspritesheet_13
+    21300028: soilderspritesheet_14
+    21300030: soilderspritesheet_15
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 534, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soilderspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 362
+        width: 34
+        height: 43
+      alignment: 9
+      pivot: {x: 0.9460585, y: 0.31394732}
+      border: {x: 18, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 670
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 726
+        width: -30
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 670
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 679
+        width: 39
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 623
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 627
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 632
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 623
+        width: 50
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158.6
+        width: 262
+        height: 157.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 620
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 158.6
+        width: 262
+        height: 157.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6000061
+        width: 262
+        height: 157.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1.6000061
+        width: 262
+        height: 157.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1.6000061
+        width: 262
+        height: 157.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soilderspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 674
+        width: 27
+        height: 59
+      alignment: 9
+      pivot: {x: 0.49999943, y: 0.53037065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -393, y: 393.5}
+      - {x: -393, y: -393.5}
+      - {x: -156.6507, y: -379.22336}
+      - {x: -170.92735, y: 386.36163}
+    physicsShape:
+    - - {x: -393, y: 393.5}
+      - {x: -393, y: -393.5}
+      - {x: 393, y: -393.5}
+      - {x: 393, y: 393.5}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
